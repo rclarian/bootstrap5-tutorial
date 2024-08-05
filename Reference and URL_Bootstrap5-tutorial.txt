@@ -1,2 +1,4 @@
 URL: https://www.udemy.com/course/the-complete-bootstrap-5-course-for-beginners-step-by-step/learn/lecture/21528242#overview
 Documents: https://getbootstrap.com/docs/5.3/getting-started/introduction/#cdn-links
+
+image: https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?fit=crop&w=2134&q=100
